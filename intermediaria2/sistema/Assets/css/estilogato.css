@@ -1,0 +1,118 @@
+.adotar-cat1 {
+    width: 20%;
+    height:350px;
+    background-image: url("../images/cat/cat1.jpg");
+    background-size: 100% 100%;
+    float: left;
+    
+}
+.adotar-cat1:hover {
+    background-image: url(../images/cat/cat1hover.jpg);
+}
+
+.adotar-cat2 {
+    width: 20%;
+    height:350px;
+    background-image: url("../images/cat/cat2.jpg");
+    background-size: 100% 100%;
+     float: left;
+    
+}
+.adotar-cat2:hover {
+    background-image: url(../images/cat/cat2hover.jpg);
+}
+
+.adotar-cat3 {
+    width: 20%;
+    height:350px;
+    background-image: url("../images/cat/cat3.jpg");
+    background-size: 100% 100%;
+     float: left;
+    
+}
+.adotar-cat3:hover {
+    background-image: url("../images/cat/cat3hover.jpg");
+}
+
+.adotar-cat4{
+    width: 20%;
+    height:350px;
+    background-image: url("../images/cat/cat4.jpg");
+    background-size: 100% 100%;
+     float: left;
+    
+}
+.adotar-cat4:hover{
+    background-image: url("../images/cat/cat4hover.jpg");
+}
+
+.adotar-cat5{
+    width: 20%;
+    height:350px;
+    background-image: url("../images/cat/cat5.jpg");
+    background-size: 100% 100%;
+     float: left;
+    
+}
+.adotar-cat5:hover {
+    background-image: url("../images/cat/cat5hover.jpg");
+}
+
+.adotar-cat6 {
+    width: 20%;
+    height:350px;
+    background-image: url("../images/cat/cat6.jpg");
+    background-size: 100% 100%;
+     float: left;
+    
+}
+.adotar-cat6:hover {
+    background-image: url("../images/cat/cat6hover.jpg");
+}
+
+.adotar-cat7 {
+    width: 20%;
+    height:350px;
+    background-image: url("../images/cat/cat7.jpg");
+    background-size: 100% 100%;
+     float: left;
+    
+}
+.adotar-cat7:hover {
+    background-image: url("../images/cat/cat7hover.jpg");
+}
+
+.adotar-cat8 {
+    width: 20%;
+    height:350px;
+    background-image: url("../images/cat/cat8.jpg");
+    background-size: 100% 100%;
+     float: left;
+    
+}
+.adotar-cat8:hover {
+    background-image: url("../images/cat/cat8hover.jpg");
+}
+
+.adotar-cat9 {
+    width: 20%;
+    height:350px;
+    background-image: url("../images/cat/cat9.jpg");
+    background-size: 100% 100%;
+     float: left;
+    
+}
+.adotar-cat9:hover {
+    background-image: url(../images/cat/cat9hover.jpg);
+}
+
+.adotar-cat10 {
+    width: 20%;
+    height:350px;
+    background-image: url("../images/cat/cat10.jpg");
+    background-size: 100% 100%;
+     float: left;
+}
+.adotar-cat10:hover {
+    background-image: url("../images/cat/cat10hover.jpg");
+}

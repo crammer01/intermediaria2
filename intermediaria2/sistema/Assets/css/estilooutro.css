@@ -1,0 +1,48 @@
+.adotar-outro1 {
+    width: 20%;
+    height:350px;
+    background-image: url("../images/others/outro1.jpg");
+    background-size: 100% 100%;
+    float: left;
+    
+}
+.adotar-outro1:hover {
+    background-image: url(../images/others/outro1hover.jpg);
+}
+
+.adotar-outro2 {
+    width: 20%;
+    height:350px;
+    background-image: url("../images/others/outro2.png");
+    background-size: 100% 100%;
+     float: left;
+    
+}
+.adotar-outro2:hover {
+    background-image: url(../images/others/outro2hover.jpg);
+}
+
+.adotar-outro3 {
+    width: 20%;
+    height:350px;
+    background-image: url("../images/others/outro3.jpg");
+    background-size: 100% 100%;
+     float: left;
+    
+}
+.adotar-outro3:hover {
+    background-image: url("../images/others/outro3hover.jpg");
+}
+
+.adotar-outro4{
+    width: 20%;
+    height:350px;
+    background-image: url("../images/others/outro4.jpg");
+    background-size: 100% 100%;
+     float: left;
+    
+}
+
+.adotar-outro4:hover {
+    background-image: url("../images/others/outro4hover.jpg");
+}

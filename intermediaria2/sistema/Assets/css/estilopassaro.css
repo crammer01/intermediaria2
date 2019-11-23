@@ -1,0 +1,59 @@
+.adotar-bird1 {
+    width: 20%;
+    height:350px;
+    background-image: url("../images/bird/bird1.jpg");
+    background-size: 100% 100%;
+    float: left;
+    
+}
+.adotar-bird1:hover {
+    background-image: url(../images/bird/bird1hover.jpg);
+}
+
+.adotar-bird2 {
+    width: 20%;
+    height:350px;
+    background-image: url("../images/bird/bird2.jpg");
+    background-size: 100% 100%;
+     float: left;
+    
+}
+.adotar-bird2:hover {
+    background-image: url(../images/bird/bird2hover.jpg);
+}
+
+.adotar-bird3 {
+    width: 20%;
+    height:350px;
+    background-image: url("../images/bird/bird3.jpg");
+    background-size: 100% 100%;
+     float: left;
+    
+}
+.adotar-bird3:hover {
+    background-image: url("../images/bird/bird3hover.jpg");
+}
+
+.adotar-bird4{
+    width: 20%;
+    height:350px;
+    background-image: url("../images/bird/bird4.jpg");
+    background-size: 100% 100%;
+     float: left;
+    
+}
+.adotar-bird4:hover{
+    background-image: url("../images/bird/bird4hover.jpg");
+}
+
+.adotar-bird5{
+    width: 20%;
+    height:350px;
+    background-image: url("../images/bird/bird5.jpg");
+    background-size: 100% 100%;
+     float: left;
+    
+}
+.adotar-bird5:hover {
+    background-image: url("../images/bird/bird5hover.jpg");
+}

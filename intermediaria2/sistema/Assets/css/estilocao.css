@@ -1,0 +1,118 @@
+.adotar-dog1 {
+    width: 20%;
+    height:350px;
+    background-image: url("../images/dog/dog1.png");
+    background-size: 100% 100%;
+    float: left;
+    
+}
+.adotar-dog1:hover {
+    background-image: url(../images/dog/dog1hover.png);
+}
+
+.adotar-dog2 {
+    width: 20%;
+    height:350px;
+    background-image: url("../images/dog/dog2.jpg");
+    background-size: 100% 100%;
+     float: left;
+    
+}
+.adotar-dog2:hover {
+    background-image: url(../images/dog/dog2hover.jpg);
+}
+
+.adotar-dog3 {
+    width: 20%;
+    height:350px;
+    background-image: url("../images/dog/dog3.jpg");
+    background-size: 100% 100%;
+     float: left;
+    
+}
+.adotar-dog3:hover {
+    background-image: url(../images/dog/dog3hover.jpg);
+}
+
+.adotar-dog4{
+    width: 20%;
+    height:350px;
+    background-image: url("../images/dog/dog4.jpg");
+    background-size: 100% 100%;
+     float: left;
+    
+}
+.adotar-dog4:hover{
+    background-image: url(../images/dog/dog4hover.jpg);
+}
+
+.adotar-dog5{
+    width: 20%;
+    height:350px;
+    background-image: url("../images/dog/dog5.jpg");
+    background-size: 100% 100%;
+     float: left;
+    
+}
+.adotar-dog5:hover {
+    background-image: url(../images/dog/dog5hover.jpg);
+}
+
+.adotar-dog6 {
+    width: 20%;
+    height:350px;
+    background-image: url("../images/dog/dog6.jpg");
+    background-size: 100% 100%;
+     float: left;
+    
+}
+.adotar-dog6:hover {
+    background-image: url(../images/dog/dog6hover.jpg);
+}
+
+.adotar-dog7 {
+    width: 20%;
+    height:350px;
+    background-image: url("../images/dog/dog7.jpg");
+    background-size: 100% 100%;
+     float: left;
+    
+}
+.adotar-dog7:hover {
+    background-image: url(../images/dog/dog7hover.jpg);
+}
+
+.adotar-dog8 {
+    width: 20%;
+    height:350px;
+    background-image: url("../images/dog/dog8.jpg");
+    background-size: 100% 100%;
+     float: left;
+    
+}
+.adotar-dog8:hover {
+    background-image: url(../images/dog/dog8hover.jpg);
+}
+
+.adotar-dog9 {
+    width: 20%;
+    height:350px;
+    background-image: url("../images/dog/dog9.jpg");
+    background-size: 100% 100%;
+     float: left;
+    
+}
+.adotar-dog9:hover {
+    background-image: url(../images/dog/dog9hover.jpg);
+}
+
+.adotar-dog10 {
+    width: 20%;
+    height:350px;
+    background-image: url("../images/dog/dog10.jpg");
+    background-size: 100% 100%;
+     float: left;
+}
+.adotar-dog10:hover {
+    background-image: url(../images/dog/dog10hover.jpg);
+}
